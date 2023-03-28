@@ -1,0 +1,15 @@
+C:\C#\work\hometask10\obj\Debug\net6.0\hometask10.csproj.AssemblyReference.cache
+C:\C#\work\hometask10\obj\Debug\net6.0\hometask10.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\work\hometask10\obj\Debug\net6.0\hometask10.AssemblyInfoInputs.cache
+C:\C#\work\hometask10\obj\Debug\net6.0\hometask10.AssemblyInfo.cs
+C:\C#\work\hometask10\obj\Debug\net6.0\hometask10.csproj.CoreCompileInputs.cache
+C:\C#\work\hometask10\bin\Debug\net6.0\hometask10.exe
+C:\C#\work\hometask10\bin\Debug\net6.0\hometask10.deps.json
+C:\C#\work\hometask10\bin\Debug\net6.0\hometask10.runtimeconfig.json
+C:\C#\work\hometask10\bin\Debug\net6.0\hometask10.dll
+C:\C#\work\hometask10\bin\Debug\net6.0\hometask10.pdb
+C:\C#\work\hometask10\obj\Debug\net6.0\hometask10.dll
+C:\C#\work\hometask10\obj\Debug\net6.0\refint\hometask10.dll
+C:\C#\work\hometask10\obj\Debug\net6.0\hometask10.pdb
+C:\C#\work\hometask10\obj\Debug\net6.0\hometask10.genruntimeconfig.cache
+C:\C#\work\hometask10\obj\Debug\net6.0\ref\hometask10.dll
